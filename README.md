@@ -6,7 +6,7 @@
 
 ---
 
-## Full Stack Developer and tech enthusiast
+#### Full Stack Developer and tech enthusiast
 
 ## Technologies
 
