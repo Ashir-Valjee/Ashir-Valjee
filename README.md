@@ -8,8 +8,6 @@
 
 ## Full Stack Developer and tech enthusiast
 
-## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashir-Valjee&show_icons=true)
-
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,5 +37,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashir-Valjee&show_icons=true)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ashir-Valjee&color=blue)
